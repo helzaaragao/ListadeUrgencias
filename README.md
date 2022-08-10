@@ -1,1 +1,2 @@
-Um projeto para explorar listas com somente HTML 
+#sobre esse projeto
+Um projeto para explorar listas somente com HTML 
